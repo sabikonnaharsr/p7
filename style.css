@@ -1,0 +1,97 @@
+	.header{
+
+	}
+	.menu a{
+		background-color: whitesmoke;
+		border: 2px solid border;
+		margin: 20px 0px;
+		padding: 20px;
+	}
+	.menu{
+		padding: 20px;
+	}
+	.slider{
+
+	}
+	.slider img{
+	    	width: 100%;
+	    }
+	.about{
+		min-height: 120px;
+		background-color: lightsalmon;
+		text-align: center;
+	}
+	.description{
+		min-height: 120px;
+		background-color: lightgreen;
+		width: 50%;
+		float: left;
+		text-align: center;
+	}
+	.image{
+		min-height: 120px;
+		background-color: lightcoral;
+		width: 50%;
+		float: right;
+	}
+	.skill{
+		overflow: hidden;
+	}
+	
+	.skill_01{
+		min-height: 150px;
+		background-color: lightcoral;
+		width: 33.33%;
+		float: left;
+		text-align: center;
+	}
+	.skill_02{
+		min-height: 150px;
+		background-color: lightcyan;
+		width: 33.33%;
+		float: left;
+		text-align: center;
+	}
+	.skill_03{
+		min-height: 150px;
+		background-color: lightgrey;
+		width: 33.33%;
+		float: left;
+		text-align: center;
+	}
+.service{
+	overflow: hidden;
+}
+	.service_01{
+		min-height: 160px;
+		background-color: lightgreen;
+		width: 25%;
+		float: left;
+		text-align: center;
+	}
+	.service_02{
+		min-height: 160px;
+		background-color:lightcyan;
+		width: 25%;
+		float: left;
+		text-align: center;
+	}
+	.service_03{
+		min-height: 160px;
+		background-color: seagreen;
+		width: 25%;
+		float: left;
+		text-align: center;
+	}
+	.service_04{
+	    min-height: 160px;
+		background-color: lightgreen;
+		width: 25%;
+		float: left;
+		text-align: center;	
+	}
+	.footer{
+		min-height: 80px;
+		text-align: center;
+	}
+	
